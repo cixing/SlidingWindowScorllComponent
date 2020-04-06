@@ -1,7 +1,7 @@
 {
-  "name": "radio",
+  "name": "slidingwindowscorll",
   "version": "1.0.0",
-  "description": "",
+  "description": "SlidingWindowScorll  with VUE npm run dev 开启热更新调试",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,8 +9,8 @@
     "build": "webpack"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "cixing",
+  "license": "MIT",
   "devDependencies": {
     "vue-loader": "^15.8.3",
     "vue-template-compiler": "^2.6.11",
@@ -32,5 +32,13 @@
     "vue": "^2.6.11",
     "vue-style-loader": "^4.1.2",
     "webpack-dev-server": "^3.10.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cixing/SlidingWindowScorllComponent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cixing/SlidingWindowScorllComponent/issues"
+  },
+  "homepage": "https://github.com/cixing/SlidingWindowScorllComponent#readme"
 }
